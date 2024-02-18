@@ -6,12 +6,10 @@ subtitle: <a href='#'>Bilingual Reporter</a> NBC Boston
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_8870.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Bianca Beltrán joined NBC10Boston and Telemundo in January 2022 as a bilingual reporter. 
+Bianca Beltrán joined [NBC10Boston](https://www.nbcboston.com/author/bianca-beltran/) and [Telemundo](https://www.telemundonuevainglaterra.com/) in January 2022 as a bilingual reporter. 
 
 Bianca has served English and Spanish-speaking communities in Kansas City, Missouri (KMBC), Salinas, California (KSBW), and at Univision-affiliate stations (KPMR and KSMS) along California's Central Coast. While at KSBW, she also anchored the weekend morning show. 
 
