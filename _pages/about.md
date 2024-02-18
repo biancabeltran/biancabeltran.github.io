@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bilingual Reporter, NBC Boston | Telemundo Nueva Inglaterra
+subtitle: Bilingual Reporter | NBC Boston & Telemundo Nueva Inglaterra
 
 profile:
   align: right
   image: IMG_8870.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     
 

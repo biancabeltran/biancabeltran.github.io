@@ -59,11 +59,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "NAHJ New England Journalism Awards",
+      "date": "2023",
+      "awarder": "Best TV/Video Story",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -150,13 +150,8 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "English, Spanish",
+      "fluency": "",
       "icon": ""
     }
   ],
