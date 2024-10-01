@@ -2,8 +2,6 @@ Bianca Beltrán joined [NBC10Boston](https://www.nbcboston.com/author/bianca-bel
 
 Bianca has served English and Spanish-speaking communities in Kansas City, Missouri (KMBC), Salinas, California (KSBW), and at Univision-affiliate stations (KPMR and KSMS) along California's Central Coast. While at KSBW, she also anchored the weekend morning show. 
 
-Bianca has reported on major events across the country—from wildfires in California to destructive storms in the Midwest—and received an Emmy nomination for her coverage of the 2020 George Floyd protests. She is passionate about probing difficult issues, such as incarnation and immigration. Through her reporting, Bianca endeavors to bring attention to the most serious challenges we face—along with their potential solutions. 
+Bianca has reported on major events across the country—from wildfires in California to destructive storms in the Midwest—and received an Emmy nomination for her coverage of the 2020 George Floyd protests. She is passionate about probing difficult issues, such as incarceration and immigration. Through her reporting, Bianca endeavors to bring attention to the most serious challenges we face—along with their potential solutions. Bianca gained experience reporting internationally covering the 2024 Olympics in Paris for NBC10 Boston.
 
 Bianca grew up across the street from the strawberry fields of Oxnard, California. She graduated from the University of California, Santa Barbara with a degree in Film & Media Studies. 
-
-Bianca enjoys exploring new hobbies and learning niche skills. She has two cats who are an endless source of entertainment and affection.
