@@ -19,8 +19,4 @@ social: true # includes social icons at the bottom of the page
 
 Bianca Beltrán is a bilingual reporter for [NBC10Boston](https://www.nbcboston.com/author/bianca-beltran/) and [Telemundo Nueva Inglaterra](https://www.telemundonuevainglaterra.com/). 
 
-Bianca has served English and Spanish-speaking communities in Kansas City, MO (KMBC), Salinas, CA (KSBW), and at Univision-affiliate stations (KPMR and KSMS) along California's Central Coast. While at KSBW, she also anchored the weekend morning show. 
-
-Bianca has reported on major events across the country—from wildfires in California to destructive storms in the Midwest—and received an Emmy nomination for her coverage of the 2020 George Floyd protests. She is passionate about probing difficult issues, such as incarceration and immigration. Through her reporting, Bianca endeavors to bring attention to the most serious challenges we face—along with their potential solutions. Bianca gained experience reporting internationally covering the 2024 Olympics in Paris for NBC10 Boston.
-
-Bianca grew up across the street from the strawberry fields of Oxnard, California. She graduated from the University of California, Santa Barbara with a degree in Film & Media Studies. 
+Bianca's career has taken her from California to the Midwest, New England and Paris! Along the way, she earned Emmy nominations for her coverage of the 2020 Black Lives Matter protests, migrants unexpectedly flown to Martha's Vineyard in 2022, and her reporting on the 2024 Olympics in Paris. In 2025, Bianca took on a new role as a consumer investigative journalist helping people get their money back through NBC10 Boston Responds and empowering consumers navigating finances through educational reporting.
