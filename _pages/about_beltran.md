@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /
+title: about-detail
+permalink: /about-detail
 ---
 
 Bianca Beltrán is a bilingual journalist driven by curiosity and compassion.
