@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://biancabeltran.com//sitemap.xml
